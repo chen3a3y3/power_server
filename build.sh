@@ -1,0 +1,1 @@
+go build -o power_server
